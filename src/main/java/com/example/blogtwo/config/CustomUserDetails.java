@@ -1,4 +1,4 @@
-package com.example.blogtwo;
+package com.example.blogtwo.config;
 
 import com.example.blogtwo.entities.Role;
 import com.example.blogtwo.entities.User;

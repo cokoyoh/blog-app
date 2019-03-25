@@ -1,5 +1,6 @@
 package com.example.blogtwo;
 
+import com.example.blogtwo.config.CustomUserDetails;
 import com.example.blogtwo.entities.Role;
 import com.example.blogtwo.entities.User;
 import com.example.blogtwo.repositories.UserRepository;
